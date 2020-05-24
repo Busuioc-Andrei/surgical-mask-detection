@@ -29,6 +29,7 @@ At first it was observed that on each run of the code, the part that took a subs
 ![classifier](https://user-images.githubusercontent.com/49075040/82742039-ad1d7980-9d61-11ea-8069-8cf8cae99b96.PNG)
 
 The classifier used was **LogisticRegression from sklearn.linear_model**, the solver used was **liblinear** because the dataset was small and because the classification needed wasn't a multiclass one.
+Multiple hyperparameters were tried out but the result was usually worse after modifying any of the default hyperparameters so the approach was kept simple.
 
 ## Precision
 
