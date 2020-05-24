@@ -8,7 +8,7 @@ I wrote a machine learning project that deals with surgical mask recognition bas
 
 **Logistic regression** is a statistical model that in its basic form uses a logistic function to model a binary dependent variable. It is a simple model in it's nature and is especially useful in classifying data in a binary way, reason why it works well for this task.
 
-## Transform data
+## Data transformation
 
 ![transformData](https://user-images.githubusercontent.com/49075040/82742037-ac84e300-9d61-11ea-8b1a-85af2b4d2ece.PNG)
 
