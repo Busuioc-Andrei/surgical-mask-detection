@@ -1,6 +1,6 @@
 # Surgical mask detection
 
-I wrote a machine learning project that deals with surgical mask recognition based on wav audio files. For implementing this task I used **Mel-frequency cepstral coefficients (mfcc)** and **Logistical regression.**
+I wrote a machine learning project that deals with surgical mask recognition based on wav audio files. For implementing this task I used **Mel-frequency cepstral coefficients (mfcc)** and **Logistic regression.**
 
 ## Why mfcc and logistic regression
 
